@@ -224,7 +224,7 @@ footer a:hover {
         background-color: #faf9f9;
     }
 
-    nav {
+    .links a {
         display: none;
     }
 
